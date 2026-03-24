@@ -29,9 +29,7 @@
 <br>
 <br>
 
-<!-- ═══════════════════ ABOUT ═══════════════════ -->
-
-<img src="./divider.svg" width="100%">
+<img src="./divider.svg" width="100%" height="3">
 
 <br>
 
@@ -54,17 +52,12 @@
 
 <br>
 
-<img src="./divider.svg" width="100%">
+<img src="./divider.svg" width="100%" height="3">
 
 <br>
 <br>
 
-<!-- ═══════════════════ SKILLS ═══════════════════ -->
-
-<h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24" />
-  &nbsp;Tech Stack
-</h2>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22" /> Tech Stack
 
 <div align="center">
 
@@ -83,13 +76,11 @@
 <br>
 <br>
 
-<!-- ═══════════════════ STATS ═══════════════════ -->
-
-<img src="./divider.svg" width="100%">
+<img src="./divider.svg" width="100%" height="3">
 
 <br>
 
-<h2>📊 GitHub İstatistikleri</h2>
+## 📊 GitHub İstatistikleri
 
 <div align="center">
 
@@ -119,13 +110,11 @@
 <br>
 <br>
 
-<!-- ═══════════════════ TROPHIES ═══════════════════ -->
-
-<img src="./divider.svg" width="100%">
+<img src="./divider.svg" width="100%" height="3">
 
 <br>
 
-<h2>🏆 GitHub Ödülleri</h2>
+## 🏆 GitHub Ödülleri
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yes3760&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="96%" />
@@ -134,13 +123,11 @@
 <br>
 <br>
 
-<!-- ═══════════════════ FOCUS ═══════════════════ -->
-
-<img src="./divider.svg" width="100%">
+<img src="./divider.svg" width="100%" height="3">
 
 <br>
 
-<h2>🎯 Odak Alanlarım</h2>
+## 🎯 Odak Alanlarım
 
 <div align="center">
 
@@ -169,17 +156,7 @@
 <br>
 <br>
 
-<!-- ═══════════════════ QUOTE ═══════════════════ -->
-
-<img src="./divider.svg" width="100%">
-
-<br>
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Kod%20yazmak%20bir%20sanat%2C%20çalışan%20kod%20ise%20bir%20başarıdır.&author=Yunus%20Emre%20Sevindik" />
-
-</div>
+<img src="./divider.svg" width="100%" height="3">
 
 <br>
 
@@ -200,5 +177,5 @@
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0a0a0a,50:3d0000,100:0a0a0a&section=footer&reversal=false&fontColor=555555" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0a0a0a,50:3d0000,100:0a0a0a&section=footer&reversal=false" width="100%" />
 </div>
