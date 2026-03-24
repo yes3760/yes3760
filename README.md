@@ -11,7 +11,7 @@
 
 ---
 
-## 🌸 Hakkımda
+## 🐬 Hakkımda
 
 - 🎓 Sakarya Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim
 - 💻 Mobil geliştirme, web teknolojileri ve yazılım projeleri üzerinde çalışıyorum
