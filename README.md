@@ -1,74 +1,165 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Yunus%20Emre%20Sevindik&fontSize=60&fontAlign=50&fontAlignY=45&fontColor=ffffff&color=0:000000,50:3d0000,100:000000&stroke=cc0000&strokeWidth=3&animation=fadeIn&desc=Mobile%20Developer%20%E2%80%A2%20CS%20Student%20%E2%80%A2%20Builder&descSize=18&descFontColor=888888&descAlignY=68" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0a0a0a,40:1c0000,60:3d0000,100:0a0a0a&text=Yunus%20Emre%20Sevindik&fontSize=52&fontAlign=50&fontAlignY=42&fontColor=ffffff&animation=fadeIn&stroke=8B0000&strokeWidth=1&desc=Mobile%20Developer%20%7C%20CS%20Student%20%7C%20Builder&descFontColor=999999&descSize=17&descAlignY=62&descAlign=50" />
+</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=800&color=CC0000&center=true&vCenter=true&repeat=true&width=500&lines=%F0%9F%93%B1+React+Native+%26+Swift+ile+mobil+uygulamalar;%F0%9F%94%90+Siber+guvenlik+kesfediyorum;%F0%9F%A4%96+Yapay+Zeka+ile+deney+yapiyorum;%F0%9F%9A%80+Her+gun+bir+sey+insa+ediyorum)](https://github.com/yes3760)
-
-<br>
-
-<a href="https://github.com/yes3760"><img src="https://img.shields.io/badge/-yes3760-000?style=flat-square&logo=github&logoColor=fff" /></a>
-<a href="https://www.linkedin.com/in/yunus-emre-sevindik-b19854247/"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=fff" /></a>
-<a href="mailto:svndkyes33@gmail.com"><img src="https://img.shields.io/badge/-svndkyes33@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=fff" /></a>
-<img src="https://komarev.com/ghpvc/?username=yes3760&color=cc0000&style=flat-square&label=visitors" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=FF2222&center=true&vCenter=true&repeat=true&width=520&lines=📱+React+Native+%26+Swift+ile+mobil+uygulama+geliştirme;🔐+Siber+güvenlik+ve+etik+hacking+öğreniyorum;🤖+Yapay+zeka+ile+gerçek+projeler+inşa+ediyorum;⚡+Her+commit+bir+adım+ileri)](https://github.com/yes3760)
 
 </div>
 
 <br>
 
-## ◆ Ben Kimim
+<div align="center">
+  <a href="https://github.com/yes3760">
+    <img src="https://img.shields.io/badge/GitHub-yes3760-0d0d0d?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/yunus-emre-sevindik-b19854247/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a66c2" />
+  </a>
+  &nbsp;
+  <a href="mailto:svndkyes33@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-svndkyes33-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ea4335" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=yes3760&label=Profile+Views&color=8b0000&style=for-the-badge" />
+</div>
 
-```typescript
-const yunusEmre = {
-  university : "Sakarya Universitesi — Bilgisayar Muhendisligi",
-  location   : "Turkiye 🇹🇷",
-  focus      : ["Mobile Development", "Cybersecurity", "Artificial Intelligence"],
-  languages  : ["C", "C#", "Java", "Swift", "JavaScript"],
-  tools      : ["React Native", "ASP.NET Core", "Node.js", "PostgreSQL"],
-  learning   : "iOS gelistirme & penetration testing",
-  goal       : "Gercek projelerde aktif rol almak & takim calismasi",
-  funFact    : "Sabah kahvesiz commit atilmaz ☕",
-};
+<br>
+<br>
+
+<!-- ═══════════════════ ABOUT ═══════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+```ts
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   const developer = {                                            ║
+║     name       : "Yunus Emre Sevindik",                          ║
+║     university : "Sakarya Üniversitesi — Bilgisayar Müh.",       ║
+║     location   : "Türkiye  🇹🇷",                                  ║
+║     focus      : ["Mobile Dev", "Cyber Sec", "AI/ML"],           ║
+║     stack      : ["Swift", "React Native", "C#", "Node.js"],     ║
+║     database   : ["PostgreSQL", "SQL"],                          ║
+║     learning   : "iOS native + penetration testing",             ║
+║     available  : true,   // Gerçek projelere açığım              ║
+║   };                                                             ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 <br>
 
-## ◆ Teknoloji Yiginim
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+<br>
+
+<!-- ═══════════════════ SKILLS ═══════════════════ -->
+
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24" />
+  &nbsp;Tech Stack
+</h2>
 
 <div align="center">
 
-<table>
+<img src="https://skillicons.dev/icons?i=c,cs,java,swift,js&theme=dark&perline=5" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,dotnet,nodejs,html,css&theme=dark&perline=5" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,xcode&theme=dark&perline=5" />
+
+</div>
+
+<br>
+<br>
+
+<!-- ═══════════════════ STATS ═══════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<h2>📊 GitHub İstatistikleri</h2>
+
+<div align="center">
+
+<a href="https://github.com/yes3760">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yes3760&show_icons=true&bg_color=0d0d0d&title_color=ff2222&icon_color=cc0000&text_color=dddddd&border_color=1f1f1f&border_radius=12&count_private=true&include_all_commits=true&rank_icon=percentile&hide_border=false" />
+</a>
+<a href="https://github.com/yes3760">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yes3760&layout=compact&bg_color=0d0d0d&title_color=ff2222&text_color=dddddd&border_color=1f1f1f&border_radius=12&langs_count=8&hide_border=false" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+<a href="https://github.com/yes3760">
+  <img src="https://streak-stats.demolab.com?user=yes3760&background=0d0d0d&border=1f1f1f&ring=cc0000&fire=ff3333&currStreakLabel=dddddd&sideLabels=888888&dates=555555&sideNums=cc0000&currStreakNum=ff3333&border_radius=12&mode=weekly&hide_border=false" />
+</a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yes3760&bg_color=0d0d0d&color=ff2222&line=8b0000&point=ff2222&area=true&area_color=2a0000&hide_border=false&border_color=1f1f1f&radius=10&custom_title=Katkı+Grafiği" width="96%" />
+</div>
+
+<br>
+<br>
+
+<!-- ═══════════════════ TROPHIES ═══════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<h2>🏆 GitHub Ödülleri</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yes3760&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="96%" />
+</div>
+
+<br>
+<br>
+
+<!-- ═══════════════════ FOCUS ═══════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<h2>🎯 Odak Alanlarım</h2>
+
+<div align="center">
+
+<table border="0">
 <tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=c" width="42" height="42" /><br><sub><b>C</b></sub>
+<td width="33%" align="center">
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /><br><br>
+<b>📱 Mobile Development</b><br><br>
+<sub>React Native & Swift ile iOS/Android uygulamaları geliştiriyorum. Cross-platform ve native deneyim üzerine odaklanıyorum.</sub>
 </td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=cs" width="42" height="42" /><br><sub><b>C#</b></sub>
+<td width="33%" align="center">
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /><br><br>
+<b>🔐 Cyber Security</b><br><br>
+<sub>Ağ güvenliği, zafiyet analizi ve etik hacking konularında aktif olarak kendimi geliştiriyorum.</sub>
 </td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=java" width="42" height="42" /><br><sub><b>Java</b></sub>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=swift" width="42" height="42" /><br><sub><b>Swift</b></sub>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=js" width="42" height="42" /><br><sub><b>JavaScript</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=react" width="42" height="42" /><br><sub><b>React Native</b></sub>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=dotnet" width="42" height="42" /><br><sub><b>ASP.NET</b></sub>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=nodejs" width="42" height="42" /><br><sub><b>Node.js</b></sub>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=postgres" width="42" height="42" /><br><sub><b>PostgreSQL</b></sub>
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=git" width="42" height="42" /><br><sub><b>Git</b></sub>
+<td width="33%" align="center">
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><br><br>
+<b>🤖 Artificial Intelligence</b><br><br>
+<sub>Makine öğrenmesi ve modern AI teknolojilerini projelerime entegre etmeyi öğreniyorum.</sub>
 </td>
 </tr>
 </table>
@@ -76,64 +167,38 @@ const yunusEmre = {
 </div>
 
 <br>
+<br>
 
-## ◆ GitHub Istatistikleri
+<!-- ═══════════════════ QUOTE ═══════════════════ -->
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yes3760&show_icons=true&bg_color=0d0d0d&title_color=cc0000&icon_color=cc0000&text_color=cccccc&border_color=222222&border_radius=10&count_private=true&rank_icon=github" height="172" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yes3760&layout=compact&bg_color=0d0d0d&title_color=cc0000&text_color=cccccc&border_color=222222&border_radius=10&langs_count=8" height="172" />
-
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=yes3760&background=0d0d0d&border=222222&ring=cc0000&fire=ff3333&currStreakLabel=cccccc&sideLabels=888888&dates=555555&sideNums=cc0000&currStreakNum=ff3333&border_radius=10" />
-</div>
 
-<br>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yes3760&bg_color=0d0d0d&color=cc0000&line=660000&point=ff3333&area=true&area_color=1a0000&hide_border=true&radius=8" width="95%" />
-</div>
-
-<br>
-
-## ◆ Odaklandigim Alanlar
-
-<div align="center">
-
-| 📱 Mobile Dev | 🔐 Siber Guvenlik | 🤖 Yapay Zeka |
-|:---:|:---:|:---:|
-| React Native & Swift ile cross-platform ve native uygulama gelistirme | Ag guvenligi, zafiyet analizi ve etik hacking temelleri | Makine ogrenmesi modelleri ve yapay zeka entegrasyonlari |
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Kod%20yazmak%20bir%20sanat%2C%20çalışan%20kod%20ise%20bir%20başarıdır.&author=Yunus%20Emre%20Sevindik" />
 
 </div>
-
-<br>
-
-## ◆ Katki Animasyonu
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yes3760/yes3760/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yes3760/yes3760/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/yes3760/yes3760/output/github-snake-dark.svg" width="95%" />
-</picture>
-</div>
-
-> 💡 Snake animasyonunu aktif etmek için: `Settings > Actions > General > Workflow permissions` kısmında **Read and write permissions** seçin, ardından [bu rehberi](https://github.com/Platane/snk) takip edin.
 
 <br>
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════╗
-║   "Kod yaz. Kır. Öğren. Tekrarla."  ║
-╚══════════════════════════════════════╝
+  ____________________________
+ |                            |
+ |  "Kod yaz. Kır. Öğren.    |
+ |        Tekrarla."          |
+ |____________________________|
+          |
+          |  — @yes3760
 ```
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:1a0000,100:000000&section=footer" />
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0a0a0a,50:3d0000,100:0a0a0a&section=footer&reversal=false&fontColor=555555" width="100%" />
+</div>
