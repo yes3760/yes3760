@@ -29,7 +29,7 @@
 <br>
 <br>
 
-<img src="./divider.svg" width="100%" height="3">
+<img src="./divider.gif" width="100%">
 
 <br>
 
@@ -52,7 +52,7 @@
 
 <br>
 
-<img src="./divider.svg" width="100%" height="3">
+<img src="./divider.gif" width="100%">
 
 <br>
 <br>
@@ -76,7 +76,7 @@
 <br>
 <br>
 
-<img src="./divider.svg" width="100%" height="3">
+<img src="./divider.gif" width="100%">
 
 <br>
 
@@ -110,7 +110,7 @@
 <br>
 <br>
 
-<img src="./divider.svg" width="100%" height="3">
+<img src="./divider.gif" width="100%">
 
 <br>
 
@@ -123,7 +123,7 @@
 <br>
 <br>
 
-<img src="./divider.svg" width="100%" height="3">
+<img src="./divider.gif" width="100%">
 
 <br>
 
@@ -156,7 +156,7 @@
 <br>
 <br>
 
-<img src="./divider.svg" width="100%" height="3">
+<img src="./divider.gif" width="100%">
 
 <br>
 
